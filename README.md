@@ -1,4 +1,4 @@
-Esta pasta contém alguns exercícios do beecrowd resolvidos por mim e Johnattan Silva Ferreira para a disciplina de Técnicas de Programação do curso de Engenharia de Computação.
+Exercícios do beecrowd resolvidos por mim e Johnattan Silva Ferreira para a disciplina de Técnicas de Programação do curso de Engenharia de Computação.
 
 Exercícios resolvidos e resposta retornada do beecrowd:
 - 1427 - Accepted
